@@ -1,0 +1,43 @@
+
+STUDENT GRADING PROGRAM
+
+-This is a simple JavaScript program that prompts the user to input a student's marks and determines the corresponding grade based on the following criteria:
+
+Working
+ The program retrieves the KRA tax rates, NHIF rates, and NSSF rates from the provided links.
+ It then uses these rates to calculate the deductions and net salary based on the input basic salary and benefits.
+A > 79
+B: 60 to 79
+C: 50 to 59
+D: 40 to 49
+E: Less than 40
+
+
+When prompted, enter the student's marks.
+The program will then calculate and display the corresponding grade for the entered marks.
+
+
+SALARY CALCULATOR
+
+This program is designed to calculates an individual's net salary based on their basic salary and benefits. It takes into account various deductions including Pay As You Earn (PAYE) tax, National Health Insurance Fund (NHIF) deductions, and National Social Security Fund (NSSF) deductions. The gross salary and net salary are calculated using the provided basic salary and benefits.
+
+Working
+ Input the basic salary and benefits of the individual.
+ Run the program.
+ The program will calculate the PAYE tax, NHIF deductions, NSSF deductions, gross salary, and net salary.
+ View the calculated values.
+
+
+SPEED CALCUATOR
+
+This is a simple JavaScript function to calculate demerit points based on the speed of a vehicle compared to the speed limit.
+
+If the vehicle is driving at a speed lower than the speed limit, the function outputs "Ok" and returns 0 demerit points.
+
+If the vehicle exceeds the speed limit and accumulates more than 12 demerit points, the function prints "License suspended". Otherwise, it prints the number of demerit points accumulated.
+
+
+
+To use the calculate demerits function, call it with the speed of the vehicle as an argument.
+
+
